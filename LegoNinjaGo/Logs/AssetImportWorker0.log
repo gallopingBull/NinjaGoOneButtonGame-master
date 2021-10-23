@@ -15,11 +15,11 @@ D:/Unity Projects/NinjaGoOneButtonGame-master/LegoNinjaGo
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62421
+59494
 Successfully changed project path to: D:/Unity Projects/NinjaGoOneButtonGame-master/LegoNinjaGo
 D:/Unity Projects/NinjaGoOneButtonGame-master/LegoNinjaGo
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 44.03 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 49.72 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.0f1 (c7b5465681fb)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
@@ -35,766 +35,606 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56560
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56168
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001632 seconds.
+Registered in 0.001733 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 45.16 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 48.55 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.952 seconds
+- Completed reload, in  1.013 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000808 seconds.
+Registered in 0.000869 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.720 seconds
+- Completed reload, in  0.745 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1747 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 85.7 MB.
-System memory in use after: 85.8 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2192.
-Total: 1.567100 ms (FindLiveObjects: 0.168100 ms CreateObjectMapping: 0.053200 ms MarkObjects: 1.291300 ms  DeleteObjects: 0.053200 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/AddOns/MgLEGO Ninjago/Scenes/Ninjago Skybound Rescue 1.unity
-  artifactKey: Guid(1209f5b10c85c604fb16116e6aa42b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Scenes/Ninjago Skybound Rescue 1.unity using Guid(1209f5b10c85c604fb16116e6aa42b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f61d1c5186cb92d37132082374159554') in 0.015298 seconds
-  Import took 0.017902 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000883 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.702 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 83.5 MB.
-System memory in use after: 83.6 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2194.
-Total: 1.772500 ms (FindLiveObjects: 0.194400 ms CreateObjectMapping: 0.073700 ms MarkObjects: 1.487000 ms  DeleteObjects: 0.016100 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 106.182236 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Props/Kai Hover.prefab
-  artifactKey: Guid(32a8eb87ee38446abbb2435427f8cbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Props/Kai Hover.prefab using Guid(32a8eb87ee38446abbb2435427f8cbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c241da0af6f49cbc8fb8c1b485383206') in 0.121175 seconds
-  Import took 0.125444 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.023108 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Props/Leaf 1.prefab
-  artifactKey: Guid(0ae1be439f22a410cb4791a03fd4780f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Props/Leaf 1.prefab using Guid(0ae1be439f22a410cb4791a03fd4780f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee246659c5f839649bebaa28a49ce4a6') in 0.017363 seconds
-  Import took 0.020774 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005831 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Props/Leaf 1.prefab
-  artifactKey: Guid(0ae1be439f22a410cb4791a03fd4780f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Props/Leaf 1.prefab using Guid(0ae1be439f22a410cb4791a03fd4780f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee246659c5f839649bebaa28a49ce4a6') in 0.014240 seconds
-  Import took 0.017428 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.558792 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Props/Platform.prefab
-  artifactKey: Guid(9508c34e7cc00354696ef6e5b2788fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Props/Platform.prefab using Guid(9508c34e7cc00354696ef6e5b2788fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cab64fbf87916e9043fa41ae49b131d3') in 0.048532 seconds
-  Import took 0.052836 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 116.509111 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Cole.prefab
-  artifactKey: Guid(d05f7dc2214030c44a8ede901bdf691d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Cole.prefab using Guid(d05f7dc2214030c44a8ede901bdf691d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '902758a8c863eb47c200160562b9c747') in 0.038233 seconds
-  Import took 0.042267 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.456278 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Fang-Suei.prefab
-  artifactKey: Guid(47f7fa26c7d3b8345b5f8708e79e599c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Fang-Suei.prefab using Guid(47f7fa26c7d3b8345b5f8708e79e599c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ee5e7f4b4aef9aff77e6ff9d303dae1') in 0.036266 seconds
-  Import took 0.039867 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.879997 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Garmadon.prefab
-  artifactKey: Guid(6b0d0ebebba62564dabce43229d8b72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Garmadon.prefab using Guid(6b0d0ebebba62564dabce43229d8b72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ae3978a7f17be18cec5a290ccc31b2b') in 0.056523 seconds
-  Import took 0.061223 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004582 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Garmadon.prefab
-  artifactKey: Guid(6b0d0ebebba62564dabce43229d8b72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Garmadon.prefab using Guid(6b0d0ebebba62564dabce43229d8b72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ae3978a7f17be18cec5a290ccc31b2b') in 0.029820 seconds
-  Import took 0.033760 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.713229 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Jay.prefab
-  artifactKey: Guid(c5241f442c9f3c0478bbbc080a1f7bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Jay.prefab using Guid(c5241f442c9f3c0478bbbc080a1f7bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9e4a4ed0c5a5e48eb1c4f570d59894') in 0.028535 seconds
-  Import took 0.032561 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000927 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Jay.prefab
-  artifactKey: Guid(c5241f442c9f3c0478bbbc080a1f7bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Jay.prefab using Guid(c5241f442c9f3c0478bbbc080a1f7bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9e4a4ed0c5a5e48eb1c4f570d59894') in 0.024282 seconds
-  Import took 0.028067 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.914465 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Krazi.prefab
-  artifactKey: Guid(449651b358944ee49a96874378169d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Krazi.prefab using Guid(449651b358944ee49a96874378169d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96f3a72b5f3fd4c5cc312f85b271e584') in 0.038796 seconds
-  Import took 0.042713 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.894366 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Lloyd.prefab
-  artifactKey: Guid(2375188f0fc22764a95f0afd316fa9ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Lloyd.prefab using Guid(2375188f0fc22764a95f0afd316fa9ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04bba550ff9ebccfc8d17261d2f87582') in 0.027134 seconds
-  Import took 0.030931 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002902 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Lloyd.prefab
-  artifactKey: Guid(2375188f0fc22764a95f0afd316fa9ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Lloyd.prefab using Guid(2375188f0fc22764a95f0afd316fa9ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04bba550ff9ebccfc8d17261d2f87582') in 0.024441 seconds
-  Import took 0.028014 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.307803 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Maaray Guard.prefab
-  artifactKey: Guid(3fc7cfadd662e3148a3184751d454b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Maaray Guard.prefab using Guid(3fc7cfadd662e3148a3184751d454b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0898ebfaa3bc6b2d29f46431e75cd805') in 0.033759 seconds
-  Import took 0.037632 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.631190 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Master Wu.prefab
-  artifactKey: Guid(e6b56b8ff53783c4284abb368e466e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Master Wu.prefab using Guid(e6b56b8ff53783c4284abb368e466e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3defb0be1bee559202ed1c423a7d3c10') in 0.034219 seconds
-  Import took 0.037941 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.218925 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Nadakhan.prefab
-  artifactKey: Guid(ed89523aac803aa429938170683b4486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Nadakhan.prefab using Guid(ed89523aac803aa429938170683b4486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '576dcd09561413fb56e09bc3ec5f94ea') in 0.074516 seconds
-  Import took 0.078781 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.201913 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Nindroid.prefab
-  artifactKey: Guid(9b3ab3434d653d945bea0b40d67408c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Nindroid.prefab using Guid(9b3ab3434d653d945bea0b40d67408c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11ca2e8074a4ab84556acca5278308a') in 0.036445 seconds
-  Import took 0.040386 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.017085 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Nindroid.prefab
-  artifactKey: Guid(9b3ab3434d653d945bea0b40d67408c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Nindroid.prefab using Guid(9b3ab3434d653d945bea0b40d67408c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11ca2e8074a4ab84556acca5278308a') in 0.029536 seconds
-  Import took 0.033448 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.757191 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Postman.prefab
-  artifactKey: Guid(8605e20b9b10f46419fe864fff6457b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Ninjabots/Ninjabot Postman.prefab using Guid(8605e20b9b10f46419fe864fff6457b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74130fc82103737a353c0fba8e7c0cda') in 0.042804 seconds
-  Import took 0.046547 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 22.960338 seconds.
-  path: Assets/LEGO/Prefabs/LEGO Behaviour Bricks
-  artifactKey: Guid(5b5cfd2a85a7a488aa96b4afb2b2a04c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO/Prefabs/LEGO Behaviour Bricks using Guid(5b5cfd2a85a7a488aa96b4afb2b2a04c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95c9138cff865164ca976b7ee7c04ebf') in 0.004666 seconds
-  Import took 0.107047 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000921 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.677 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.8 MB.
-System memory in use after: 88.9 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2204.
-Total: 1.605700 ms (FindLiveObjects: 0.229200 ms CreateObjectMapping: 0.063600 ms MarkObjects: 1.295200 ms  DeleteObjects: 0.015800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000766 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.661 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.8 MB.
-System memory in use after: 88.9 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2206.
-Total: 1.639100 ms (FindLiveObjects: 0.177300 ms CreateObjectMapping: 0.056500 ms MarkObjects: 1.391400 ms  DeleteObjects: 0.013000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000906 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.649 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.8 MB.
-System memory in use after: 88.9 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2208.
-Total: 1.462400 ms (FindLiveObjects: 0.156600 ms CreateObjectMapping: 0.047700 ms MarkObjects: 1.246600 ms  DeleteObjects: 0.010500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000808 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.654 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.8 MB.
-System memory in use after: 89.0 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2210.
-Total: 1.936900 ms (FindLiveObjects: 0.239400 ms CreateObjectMapping: 0.077300 ms MarkObjects: 1.603500 ms  DeleteObjects: 0.015600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000988 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.671 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.8 MB.
-System memory in use after: 89.0 MB.
+Unloading 1867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.9 MB.
+System memory in use after: 94.0 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2212.
-Total: 1.476600 ms (FindLiveObjects: 0.159500 ms CreateObjectMapping: 0.047600 ms MarkObjects: 1.257600 ms  DeleteObjects: 0.011000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001030 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.671 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.9 MB.
-System memory in use after: 89.0 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2214.
-Total: 1.845300 ms (FindLiveObjects: 0.239800 ms CreateObjectMapping: 0.064000 ms MarkObjects: 1.521000 ms  DeleteObjects: 0.018000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000923 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.660 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.9 MB.
-System memory in use after: 89.0 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2216.
-Total: 1.493400 ms (FindLiveObjects: 0.168900 ms CreateObjectMapping: 0.043300 ms MarkObjects: 1.269100 ms  DeleteObjects: 0.010800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000858 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.669 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.9 MB.
-System memory in use after: 89.0 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2218.
-Total: 2.242700 ms (FindLiveObjects: 0.229900 ms CreateObjectMapping: 0.097200 ms MarkObjects: 1.897600 ms  DeleteObjects: 0.016000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000798 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.674 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.9 MB.
-System memory in use after: 89.0 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2220.
-Total: 1.485600 ms (FindLiveObjects: 0.148900 ms CreateObjectMapping: 0.046200 ms MarkObjects: 1.278300 ms  DeleteObjects: 0.011200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000818 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.675 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.9 MB.
-System memory in use after: 89.0 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2222.
-Total: 1.672300 ms (FindLiveObjects: 0.254000 ms CreateObjectMapping: 0.060600 ms MarkObjects: 1.341800 ms  DeleteObjects: 0.014400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000850 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.665 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.9 MB.
-System memory in use after: 89.0 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2224.
-Total: 1.646600 ms (FindLiveObjects: 0.170600 ms CreateObjectMapping: 0.052100 ms MarkObjects: 1.410300 ms  DeleteObjects: 0.012100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000944 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.673 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.9 MB.
-System memory in use after: 89.0 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2226.
-Total: 1.624000 ms (FindLiveObjects: 0.188600 ms CreateObjectMapping: 0.066100 ms MarkObjects: 1.355300 ms  DeleteObjects: 0.013100 ms)
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2312.
+Total: 1.936900 ms (FindLiveObjects: 0.247700 ms CreateObjectMapping: 0.058500 ms MarkObjects: 1.565500 ms  DeleteObjects: 0.064500 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 5982.752202 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Props/Light Post.prefab
-  artifactKey: Guid(6c1317e4c3018424998c368f2c20e679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Prefabs/LEGO Models/Props/Light Post.prefab using Guid(6c1317e4c3018424998c368f2c20e679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab8fa66ac60b7b1c8aae18ef70f03d58') in 0.103532 seconds
-  Import took 0.108946 seconds .
+  path: Assets/LEGO Data/Geometry/New/LOD0/2432.fbx
+  artifactKey: Guid(58fd1cef457484bb9bbb97c3f3eaa65e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/2432.fbx using Guid(58fd1cef457484bb9bbb97c3f3eaa65e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '868f04d92b6ed58585cd1d4f33ebce43') in 0.131824 seconds
+  Import took 0.134578 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 406.693287 seconds.
-  path: Assets/LEGO/Scripts/Editor/LEGOAssetPostprocessor.cs
-  artifactKey: Guid(9492e21b69c008e4b9084b1f7f82d2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO/Scripts/Editor/LEGOAssetPostprocessor.cs using Guid(9492e21b69c008e4b9084b1f7f82d2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df856df4f5ce75ce8dc845157e10a755') in 0.006007 seconds
-  Import took 0.009124 seconds .
+  Time since last request: 0.000225 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/2450.fbx
+  artifactKey: Guid(48d1c1ab234d8459e8089019594c617f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/2450.fbx using Guid(48d1c1ab234d8459e8089019594c617f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1f8cf62c77d0e2d026e1d496d3c3253') in 0.042268 seconds
+  Import took 0.044654 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.012360 seconds.
-  path: Assets/LEGO/Scripts/Editor/LEGOAssetPostprocessor.cs
-  artifactKey: Guid(9492e21b69c008e4b9084b1f7f82d2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO/Scripts/Editor/LEGOAssetPostprocessor.cs using Guid(9492e21b69c008e4b9084b1f7f82d2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df856df4f5ce75ce8dc845157e10a755') in 0.011026 seconds
-  Import took 0.013614 seconds .
+  Time since last request: 0.000249 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3298.fbx
+  artifactKey: Guid(d5f329c15818e40b2b30369ac3a22415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3298.fbx using Guid(d5f329c15818e40b2b30369ac3a22415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86150dd35bd4f57529d14f599f45f9ab') in 0.026098 seconds
+  Import took 0.028533 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 39.631687 seconds.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e85aa026b704662550c78976634a5068') in 0.004993 seconds
-  Import took 0.007721 seconds .
+  Time since last request: 0.000190 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/2445.fbx
+  artifactKey: Guid(de5ce943adc4c45569034e8c1f84bcb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/2445.fbx using Guid(de5ce943adc4c45569034e8c1f84bcb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '380112408a19e98ee3d1e6424181bf99') in 0.018804 seconds
+  Import took 0.021288 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.004528 seconds.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e85aa026b704662550c78976634a5068') in 0.001549 seconds
-  Import took 0.004300 seconds .
+  Time since last request: 0.000173 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3245.fbx
+  artifactKey: Guid(65783267d61e74adcbb86b2102c57ce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3245.fbx using Guid(65783267d61e74adcbb86b2102c57ce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c86a24456227cbf9c35aec7c4489c5c') in 0.030106 seconds
+  Import took 0.032601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3665.fbx
+  artifactKey: Guid(83fb7bdfc45554c728c7ca7438c1c447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3665.fbx using Guid(83fb7bdfc45554c728c7ca7438c1c447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5d73455aa290d637d8aa01be01b1966') in 0.016172 seconds
+  Import took 0.019111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3070.fbx
+  artifactKey: Guid(e27fa0dba0dd54021bc4875eefded3a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3070.fbx using Guid(e27fa0dba0dd54021bc4875eefded3a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dee12ed4cc77920b585dacf273638e1') in 0.058682 seconds
+  Import took 0.061511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3297.fbx
+  artifactKey: Guid(2980275b88f9043769756d3dc4f9ff23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3297.fbx using Guid(2980275b88f9043769756d3dc4f9ff23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a0193d0a3d60b68f63fa844e4db325') in 0.047972 seconds
+  Import took 0.050542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/2419.fbx
+  artifactKey: Guid(c1de6b8375f0d4cac993bb929a56eff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/2419.fbx using Guid(c1de6b8375f0d4cac993bb929a56eff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '678a61e0c82fbf956ee27d55dbd67b31') in 0.039924 seconds
+  Import took 0.042508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3633.fbx
+  artifactKey: Guid(0f0eab3157701410e9d7f15d804b6728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3633.fbx using Guid(0f0eab3157701410e9d7f15d804b6728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ac3e507e28c66460ee5f6e2d86a0755') in 0.040750 seconds
+  Import took 0.043201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3660.fbx
+  artifactKey: Guid(3fd9cba1a31f54c6cbf6ecc905617563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3660.fbx using Guid(3fd9cba1a31f54c6cbf6ecc905617563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2391434ffebfdc1c66338cf26ff4b944') in 0.039387 seconds
+  Import took 0.041763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3675.fbx
+  artifactKey: Guid(202826ec21dd5436791e4a1a2eaa8675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3675.fbx using Guid(202826ec21dd5436791e4a1a2eaa8675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14b5c25674b05f8e4a0dd3ac81fee4fe') in 0.029398 seconds
+  Import took 0.031803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3460.fbx
+  artifactKey: Guid(577164cc019e14bb69824f661a63d1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3460.fbx using Guid(577164cc019e14bb69824f661a63d1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45b9615c26c87cf43f329b6b6876a3b7') in 0.015557 seconds
+  Import took 0.018148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3626.fbx
+  artifactKey: Guid(ad4c3069544f74754a7fb012a817845b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3626.fbx using Guid(ad4c3069544f74754a7fb012a817845b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48f06e7e0741db0d045e3ca2136f504b') in 0.046806 seconds
+  Import took 0.049553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3673.fbx
+  artifactKey: Guid(b992139d26c79496fb419686f7cbdb71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3673.fbx using Guid(b992139d26c79496fb419686f7cbdb71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7658422d9950547488ba28a8fef40f9e') in 0.015818 seconds
+  Import took 0.018255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3068.fbx
+  artifactKey: Guid(f121d421355414b60aed4d142f316819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3068.fbx using Guid(f121d421355414b60aed4d142f316819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8f32899e55b71d60aee9b59c22688d9') in 0.023473 seconds
+  Import took 0.026710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3659.fbx
+  artifactKey: Guid(44a3bf47db73e498896925c1d616b10d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3659.fbx using Guid(44a3bf47db73e498896925c1d616b10d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f1041da3ee4660a439d24ea58530d98') in 0.016994 seconds
+  Import took 0.019709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3666.fbx
+  artifactKey: Guid(fef807d626bf84b58bea4e4f3d8143b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3666.fbx using Guid(fef807d626bf84b58bea4e4f3d8143b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b29b09b4d4db2203a05a289a4e88c8e6') in 0.020661 seconds
+  Import took 0.023251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/2357.fbx
+  artifactKey: Guid(78b1b426d5490414ba93ccde304d2596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/2357.fbx using Guid(78b1b426d5490414ba93ccde304d2596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58d8e5b49f3c8e66a2aa4613562de04b') in 0.031406 seconds
+  Import took 0.033844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3176.fbx
+  artifactKey: Guid(2bfe0e5f0c9b14d2c899a73f86b73e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3176.fbx using Guid(2bfe0e5f0c9b14d2c899a73f86b73e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57a28c84e5e80bf888f6237d4da4e31e') in 0.017109 seconds
+  Import took 0.019701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3688.fbx
+  artifactKey: Guid(626ae089e563d4135b4c8e56138ec932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3688.fbx using Guid(626ae089e563d4135b4c8e56138ec932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba042eb5bbc0a022514cc6c271645cf3') in 0.019264 seconds
+  Import took 0.021935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3062.fbx
+  artifactKey: Guid(a3db70242818f42f6a266f08becfdf73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3062.fbx using Guid(a3db70242818f42f6a266f08becfdf73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd24530bd754bffb14e6624dbeffa3f74') in 0.028475 seconds
+  Import took 0.031244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/2429.fbx
+  artifactKey: Guid(9f133519b2d844889bd709a82487424a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/2429.fbx using Guid(9f133519b2d844889bd709a82487424a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5376c43d12e4fdf3ebb91d46abca557d') in 0.016243 seconds
+  Import took 0.018886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/2340.fbx
+  artifactKey: Guid(67cf15900007a4656bd3f7ed9e0ac17c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/2340.fbx using Guid(67cf15900007a4656bd3f7ed9e0ac17c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2223683e98c2d16c53ade3272864fa1c') in 0.028775 seconds
+  Import took 0.031357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/2412.fbx
+  artifactKey: Guid(50dc70daa8aa04d9fbb69e1a6ba23c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/2412.fbx using Guid(50dc70daa8aa04d9fbb69e1a6ba23c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b40879c3c6e738c76a90d97c83eb89') in 0.032285 seconds
+  Import took 0.034653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3623.fbx
+  artifactKey: Guid(f825bed47eb644269bc376638365894d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3623.fbx using Guid(f825bed47eb644269bc376638365894d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c609428c0a2f7a82cf992ec6e6d5fa67') in 0.043490 seconds
+  Import took 0.045962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3069.fbx
+  artifactKey: Guid(b8cf2bfad9a5f456a9aab6eed03bc8cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3069.fbx using Guid(b8cf2bfad9a5f456a9aab6eed03bc8cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7ff9c903a3ba754d65fd79581fb4e18') in 0.020568 seconds
+  Import took 0.023263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/2417.fbx
+  artifactKey: Guid(9e3baa0e374ee4f1fa25867d7213c843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/2417.fbx using Guid(9e3baa0e374ee4f1fa25867d7213c843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09b40dd92dc6d8e6a64acce3ca604f00') in 0.043744 seconds
+  Import took 0.046390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/2431.fbx
+  artifactKey: Guid(9c55492263c684673bb70147007902f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/2431.fbx using Guid(9c55492263c684673bb70147007902f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f3b1d9a96e0c40750ed4d34123b319e') in 0.024985 seconds
+  Import took 0.027703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3066.fbx
+  artifactKey: Guid(84caaaa1a706a4342be5255a4ddf251b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3066.fbx using Guid(84caaaa1a706a4342be5255a4ddf251b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9659f3cafb33cb8a9390a79f0f418893') in 0.020656 seconds
+  Import took 0.032065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3622.fbx
+  artifactKey: Guid(5847f2ab634274f0d932bd0ba5a8cd28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3622.fbx using Guid(5847f2ab634274f0d932bd0ba5a8cd28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d6ac6751ea01fb82b15be612482dded') in 0.024817 seconds
+  Import took 0.027816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3678.fbx
+  artifactKey: Guid(bb827f4ce38be4b9b816787e70ddedcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3678.fbx using Guid(bb827f4ce38be4b9b816787e70ddedcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd902765442b7cf6be8d29f20e5f2e8e9') in 0.046503 seconds
+  Import took 0.049246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/2430.fbx
+  artifactKey: Guid(a3f4ff295c9e24f9ea09afe76e1976b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/2430.fbx using Guid(a3f4ff295c9e24f9ea09afe76e1976b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e441be55a547db36a1b618742d40f19') in 0.015197 seconds
+  Import took 0.017943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3676.fbx
+  artifactKey: Guid(d8631869b90094f6eacc69b204f991a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3676.fbx using Guid(d8631869b90094f6eacc69b204f991a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13a103f937733a10864bdec1d99e378') in 0.015572 seconds
+  Import took 0.018454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/3685.fbx
+  artifactKey: Guid(bc2d69f9d5ccc42b4a75643c1f4211e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/3685.fbx using Guid(bc2d69f9d5ccc42b4a75643c1f4211e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dacd4e0378878d7a681378ffe3a4602') in 0.022135 seconds
+  Import took 0.024680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/2420.fbx
+  artifactKey: Guid(4f03b39adecea4e28ababbdca7d97b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/2420.fbx using Guid(4f03b39adecea4e28ababbdca7d97b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed6e6eba99b7442ba38750f823d363c1') in 0.025819 seconds
+  Import took 0.028317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/LEGO Data/Geometry/New/LOD0/2449.fbx
+  artifactKey: Guid(096d12a8c68ae444cafaaf6412f9ad24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO Data/Geometry/New/LOD0/2449.fbx using Guid(096d12a8c68ae444cafaaf6412f9ad24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2efc657f1b0ddf3ed7562a1b3795c1dc') in 0.026940 seconds
+  Import took 0.029782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.275887 seconds.
+  path: Assets/LEGO/Tutorials/Images/4_win.png
+  artifactKey: Guid(16340f04dba6745518f402d8b1bc0e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Tutorials/Images/4_win.png using Guid(16340f04dba6745518f402d8b1bc0e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f749d21d8567e598a1466f19ec98597e') in 0.013931 seconds
+  Import took 0.017070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021630 seconds.
+  path: Assets/LEGO/Tutorials/Images/4_win.png
+  artifactKey: Guid(16340f04dba6745518f402d8b1bc0e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Tutorials/Images/4_win.png using Guid(16340f04dba6745518f402d8b1bc0e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f749d21d8567e598a1466f19ec98597e') in 0.008129 seconds
+  Import took 0.010788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.846183 seconds.
+  path: Assets/LEGO/Tutorials/4 Win Conditions/win_Tutorial.png
+  artifactKey: Guid(2430912d3541546c19cce361749f8319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Tutorials/4 Win Conditions/win_Tutorial.png using Guid(2430912d3541546c19cce361749f8319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7015aaad2a050fb424ba9c43e57b98b') in 0.010994 seconds
+  Import took 0.013861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.472630 seconds.
+  path: Assets/LEGO/Scenes/Playground.unity
+  artifactKey: Guid(11e617b9701224959be0f1b25929294e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Scenes/Playground.unity using Guid(11e617b9701224959be0f1b25929294e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4638db364adb65f884e609f59894e49') in 0.004783 seconds
+  Import took 0.007435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.879616 seconds.
+  path: Assets/AddOns/MgLEGO Ninjago/Scenes/Ninjago Skybound Rescue 1.unity
+  artifactKey: Guid(1209f5b10c85c604fb16116e6aa42b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/MgLEGO Ninjago/Scenes/Ninjago Skybound Rescue 1.unity using Guid(1209f5b10c85c604fb16116e6aa42b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f09a5ae72413981e8e2581644bea458a') in 0.005511 seconds
+  Import took 0.008144 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000877 seconds.
+Registered in 0.000893 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.648 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.0 MB.
-System memory in use after: 90.2 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2229.
-Total: 1.563200 ms (FindLiveObjects: 0.148300 ms CreateObjectMapping: 0.047500 ms MarkObjects: 1.350200 ms  DeleteObjects: 0.016400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000831 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.685 seconds
-Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.0 MB.
-System memory in use after: 90.2 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2231.
-Total: 1.779100 ms (FindLiveObjects: 0.210100 ms CreateObjectMapping: 0.062500 ms MarkObjects: 1.489600 ms  DeleteObjects: 0.015400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000883 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.667 seconds
+- Completed reload, in  0.697 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.0 MB.
-System memory in use after: 90.2 MB.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.3 MB.
+System memory in use after: 93.4 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2233.
-Total: 1.757100 ms (FindLiveObjects: 0.184900 ms CreateObjectMapping: 0.056100 ms MarkObjects: 1.495800 ms  DeleteObjects: 0.019400 ms)
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2326.
+Total: 1.518300 ms (FindLiveObjects: 0.188300 ms CreateObjectMapping: 0.051500 ms MarkObjects: 1.261200 ms  DeleteObjects: 0.016000 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001244 seconds.
+Registered in 0.000919 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.728 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.2 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2235.
-Total: 2.140300 ms (FindLiveObjects: 0.390200 ms CreateObjectMapping: 0.074000 ms MarkObjects: 1.658500 ms  DeleteObjects: 0.016100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000831 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.703 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.2 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2237.
-Total: 1.546400 ms (FindLiveObjects: 0.176200 ms CreateObjectMapping: 0.054300 ms MarkObjects: 1.302900 ms  DeleteObjects: 0.011400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000903 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.674 seconds
+- Completed reload, in  0.736 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.2 MB.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.4 MB.
+System memory in use after: 93.5 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2239.
-Total: 1.773500 ms (FindLiveObjects: 0.217800 ms CreateObjectMapping: 0.060600 ms MarkObjects: 1.470600 ms  DeleteObjects: 0.022200 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2328.
+Total: 1.694500 ms (FindLiveObjects: 0.205800 ms CreateObjectMapping: 0.065600 ms MarkObjects: 1.408600 ms  DeleteObjects: 0.013500 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001151 seconds.
+Registered in 0.000917 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.700 seconds
+- Completed reload, in  0.704 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.2 MB.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.4 MB.
+System memory in use after: 93.5 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2241.
-Total: 1.695300 ms (FindLiveObjects: 0.156800 ms CreateObjectMapping: 0.051300 ms MarkObjects: 1.474400 ms  DeleteObjects: 0.011900 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2330.
+Total: 1.499200 ms (FindLiveObjects: 0.184100 ms CreateObjectMapping: 0.059000 ms MarkObjects: 1.243700 ms  DeleteObjects: 0.011200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 910.663170 seconds.
+  path: Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Counter Trigger.prefab
+  artifactKey: Guid(0ad34d748b0f8584ab90acec1c11f21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Counter Trigger.prefab using Guid(0ad34d748b0f8584ab90acec1c11f21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c406d53c3f2e868b1a054bdf92583194') in 0.121792 seconds
+  Import took 0.125313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.489790 seconds.
+  path: Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Counter Trigger.prefab
+  artifactKey: Guid(0ad34d748b0f8584ab90acec1c11f21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Counter Trigger.prefab using Guid(0ad34d748b0f8584ab90acec1c11f21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49f5751f80258798bb987acb71ffd143') in 0.023499 seconds
+  Import took 0.026513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.029488 seconds.
+  path: Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Counter Trigger.prefab
+  artifactKey: Guid(0ad34d748b0f8584ab90acec1c11f21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Counter Trigger.prefab using Guid(0ad34d748b0f8584ab90acec1c11f21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f887842b1dff951bca5bec7d3dfd003') in 0.023441 seconds
+  Import took 0.026666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.273369 seconds.
+  path: Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Alive.prefab
+  artifactKey: Guid(14c411293fa3844dda7a44a1e006eb6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Alive.prefab using Guid(14c411293fa3844dda7a44a1e006eb6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9756032c0e7a5603b9fe7ec61a943139') in 0.016002 seconds
+  Import took 0.019069 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000915 seconds.
+Registered in 0.000876 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.707 seconds
+- Completed reload, in  0.691 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.2 MB.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.6 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2243.
-Total: 1.913300 ms (FindLiveObjects: 0.237200 ms CreateObjectMapping: 0.079000 ms MarkObjects: 1.578800 ms  DeleteObjects: 0.017100 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2334.
+Total: 2.102300 ms (FindLiveObjects: 0.282900 ms CreateObjectMapping: 0.074500 ms MarkObjects: 1.705900 ms  DeleteObjects: 0.037700 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000865 seconds.
+Registered in 0.000914 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.711 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2336.
+Total: 1.832700 ms (FindLiveObjects: 0.213200 ms CreateObjectMapping: 0.083300 ms MarkObjects: 1.520300 ms  DeleteObjects: 0.014300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000911 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.759 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2338.
+Total: 2.351100 ms (FindLiveObjects: 0.393600 ms CreateObjectMapping: 0.298000 ms MarkObjects: 1.642700 ms  DeleteObjects: 0.014900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001153 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.737 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2340.
+Total: 3.534100 ms (FindLiveObjects: 0.207300 ms CreateObjectMapping: 0.378300 ms MarkObjects: 2.932200 ms  DeleteObjects: 0.015100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 7581.475785 seconds.
+  path: Assets/LEGO/Prefabs/SkyFall Prefabs
+  artifactKey: Guid(e67b753b496440646b36793b1bccd2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Prefabs/SkyFall Prefabs using Guid(e67b753b496440646b36793b1bccd2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dcac127bccd3daa4dc4d623b5cd4220') in 0.008865 seconds
+  Import took 0.012248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.789055 seconds.
+  path: Assets/LEGO/Prefabs/SkyFall Prefabs/Obstacle.prefab
+  artifactKey: Guid(399390a098be1994dab80ae26c2b3a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Prefabs/SkyFall Prefabs/Obstacle.prefab using Guid(399390a098be1994dab80ae26c2b3a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41742858149cd802dad7f6373023c09e') in 0.221092 seconds
+  Import took 0.230738 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000977 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
@@ -802,147 +642,123 @@ RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
 - Completed reload, in  0.740 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.2 MB.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.3 MB.
+System memory in use after: 95.4 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2245.
-Total: 1.917700 ms (FindLiveObjects: 0.227800 ms CreateObjectMapping: 0.112400 ms MarkObjects: 1.560200 ms  DeleteObjects: 0.014900 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2343.
+Total: 2.100700 ms (FindLiveObjects: 0.277200 ms CreateObjectMapping: 0.072500 ms MarkObjects: 1.726700 ms  DeleteObjects: 0.019900 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001242 seconds.
+Registered in 0.000893 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.658 seconds
+- Completed reload, in  0.752 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.2 MB.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.3 MB.
+System memory in use after: 95.4 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2247.
-Total: 2.192900 ms (FindLiveObjects: 0.228900 ms CreateObjectMapping: 0.059200 ms MarkObjects: 1.889500 ms  DeleteObjects: 0.014300 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2345.
+Total: 1.781800 ms (FindLiveObjects: 0.213300 ms CreateObjectMapping: 0.066500 ms MarkObjects: 1.487700 ms  DeleteObjects: 0.012900 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000955 seconds.
+Registered in 0.000972 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.670 seconds
+- Completed reload, in  0.783 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.2 MB.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.3 MB.
+System memory in use after: 95.4 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2249.
-Total: 1.475100 ms (FindLiveObjects: 0.157200 ms CreateObjectMapping: 0.049500 ms MarkObjects: 1.255800 ms  DeleteObjects: 0.011300 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2347.
+Total: 1.812700 ms (FindLiveObjects: 0.198900 ms CreateObjectMapping: 0.068700 ms MarkObjects: 1.530500 ms  DeleteObjects: 0.013300 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3219.972431 seconds.
-  path: Assets/AddOns/MgLEGO Ninjago/Scenes/Ninjago Skybound Rescue 1.unity
-  artifactKey: Guid(1209f5b10c85c604fb16116e6aa42b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AddOns/MgLEGO Ninjago/Scenes/Ninjago Skybound Rescue 1.unity using Guid(1209f5b10c85c604fb16116e6aa42b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c97d616c05e9a35ce2b3471a4f42d2f') in 0.015658 seconds
-  Import took 0.019066 seconds .
+  Time since last request: 959.001645 seconds.
+  path: Assets/LEGO/Prefabs/SkyFall Prefabs/Obstacle_Large.prefab
+  artifactKey: Guid(deff184665d44664184175ad0a2bad75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Prefabs/SkyFall Prefabs/Obstacle_Large.prefab using Guid(deff184665d44664184175ad0a2bad75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2cd14fec669dc9c5689595a5bfaff56') in 0.401108 seconds
+  Import took 0.412197 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001066 seconds.
+Registered in 0.000994 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.681 seconds
+- Completed reload, in  0.698 seconds
 Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.7 MB.
+System memory in use after: 97.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2350.
+Total: 1.552200 ms (FindLiveObjects: 0.188700 ms CreateObjectMapping: 0.055700 ms MarkObjects: 1.294600 ms  DeleteObjects: 0.011500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001058 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.2 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2251.
-Total: 1.712700 ms (FindLiveObjects: 0.170500 ms CreateObjectMapping: 0.050900 ms MarkObjects: 1.479100 ms  DeleteObjects: 0.011200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000837 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.667 seconds
+- Completed reload, in  0.730 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.2 MB.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.7 MB.
+System memory in use after: 97.8 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2253.
-Total: 1.640800 ms (FindLiveObjects: 0.163400 ms CreateObjectMapping: 0.053000 ms MarkObjects: 1.408600 ms  DeleteObjects: 0.014400 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2352.
+Total: 2.045300 ms (FindLiveObjects: 0.261400 ms CreateObjectMapping: 0.102600 ms MarkObjects: 1.663900 ms  DeleteObjects: 0.016000 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000865 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.669 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.2 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2255.
-Total: 1.610000 ms (FindLiveObjects: 0.151200 ms CreateObjectMapping: 0.049800 ms MarkObjects: 1.395200 ms  DeleteObjects: 0.012800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000813 seconds.
+Registered in 0.000925 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
@@ -952,64 +768,88 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.666 seconds
+- Completed reload, in  0.735 seconds
 Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.7 MB.
+System memory in use after: 97.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2354.
+Total: 1.929200 ms (FindLiveObjects: 0.201400 ms CreateObjectMapping: 0.076400 ms MarkObjects: 1.636200 ms  DeleteObjects: 0.014200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001003 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.764 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.7 MB.
+System memory in use after: 97.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2356.
+Total: 1.791200 ms (FindLiveObjects: 0.246000 ms CreateObjectMapping: 0.082200 ms MarkObjects: 1.448800 ms  DeleteObjects: 0.013000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000926 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.772 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.7 MB.
+System memory in use after: 97.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2358.
+Total: 1.984300 ms (FindLiveObjects: 0.218800 ms CreateObjectMapping: 0.074600 ms MarkObjects: 1.675300 ms  DeleteObjects: 0.014000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000951 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.2 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2257.
-Total: 2.072300 ms (FindLiveObjects: 0.241900 ms CreateObjectMapping: 0.169300 ms MarkObjects: 1.640800 ms  DeleteObjects: 0.018700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000847 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.668 seconds
+- Completed reload, in  0.683 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.2 MB.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.7 MB.
+System memory in use after: 97.8 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2259.
-Total: 1.505700 ms (FindLiveObjects: 0.149200 ms CreateObjectMapping: 0.048200 ms MarkObjects: 1.296500 ms  DeleteObjects: 0.010900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000878 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.662 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.2 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2261.
-Total: 1.758800 ms (FindLiveObjects: 0.252000 ms CreateObjectMapping: 0.069800 ms MarkObjects: 1.420800 ms  DeleteObjects: 0.014400 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2360.
+Total: 1.592600 ms (FindLiveObjects: 0.170400 ms CreateObjectMapping: 0.053900 ms MarkObjects: 1.356300 ms  DeleteObjects: 0.011200 ms)
 
 ========================================================================
 Received Prepare
@@ -1018,94 +858,38 @@ Registered in 0.000928 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.656 seconds
+- Completed reload, in  0.698 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.2 MB.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.7 MB.
+System memory in use after: 97.9 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2263.
-Total: 1.470800 ms (FindLiveObjects: 0.154500 ms CreateObjectMapping: 0.048200 ms MarkObjects: 1.256700 ms  DeleteObjects: 0.010600 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2362.
+Total: 1.875700 ms (FindLiveObjects: 0.193900 ms CreateObjectMapping: 0.058500 ms MarkObjects: 1.607100 ms  DeleteObjects: 0.015000 ms)
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000930 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.661 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2265.
-Total: 1.733700 ms (FindLiveObjects: 0.209500 ms CreateObjectMapping: 0.069200 ms MarkObjects: 1.440800 ms  DeleteObjects: 0.013200 ms)
+Received Import Request.
+  Time since last request: 1034.217093 seconds.
+  path: Assets/LEGO/Prefabs/SkyFall Prefabs/Obstacle_Large 1.prefab
+  artifactKey: Guid(3c1dc3286c4256b45911dee1d19f65d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Prefabs/SkyFall Prefabs/Obstacle_Large 1.prefab using Guid(3c1dc3286c4256b45911dee1d19f65d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8b9f9b355b8a1e12dfc60536a565bf6') in 0.299755 seconds
+  Import took 0.311594 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000895 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.672 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.2 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2267.
-Total: 1.595800 ms (FindLiveObjects: 0.186900 ms CreateObjectMapping: 0.057700 ms MarkObjects: 1.338900 ms  DeleteObjects: 0.011500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000934 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.665 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2269.
-Total: 1.605400 ms (FindLiveObjects: 0.159800 ms CreateObjectMapping: 0.053600 ms MarkObjects: 1.379400 ms  DeleteObjects: 0.011800 ms)
+Received Import Request.
+  Time since last request: 307.820449 seconds.
+  path: Assets/LEGO/Prefabs/SkyFall Prefabs/Obstacle_Large 1.prefab
+  artifactKey: Guid(3c1dc3286c4256b45911dee1d19f65d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Prefabs/SkyFall Prefabs/Obstacle_Large 1.prefab using Guid(3c1dc3286c4256b45911dee1d19f65d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96fb2f0bd9344fc8bf88229723105115') in 0.155606 seconds
+  Import took 0.163694 seconds .
 
 ========================================================================
 Received Prepare
@@ -1114,405 +898,172 @@ Registered in 0.000899 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.663 seconds
+- Completed reload, in  0.679 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.0 MB.
-System memory in use after: 95.3 MB.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.7 MB.
+System memory in use after: 98.8 MB.
 
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2364.
-Total: 2.028900 ms (FindLiveObjects: 0.159200 ms CreateObjectMapping: 0.051100 ms MarkObjects: 1.300300 ms  DeleteObjects: 0.517700 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 3837.040729 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/2453.fbx
-  artifactKey: Guid(5158fffafe3544e09ac6d9f97bd93f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/2453.fbx using Guid(5158fffafe3544e09ac6d9f97bd93f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fc25bc804bb881132764e79deab93f2') in 0.145826 seconds
-  Import took 0.148679 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3022.fbx
-  artifactKey: Guid(4f8a699f5ed9c448f80176cedc526e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3022.fbx using Guid(4f8a699f5ed9c448f80176cedc526e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd559464ac48809d5b05e7cacc473ef9') in 0.052360 seconds
-  Import took 0.055080 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3034.fbx
-  artifactKey: Guid(4ce22e2a837d84f28a8c65c778ca8fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3034.fbx using Guid(4ce22e2a837d84f28a8c65c778ca8fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52a809d250d03ca4ef3c7fdc5688fc14') in 0.092939 seconds
-  Import took 0.095832 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/2460.fbx
-  artifactKey: Guid(0b4812779640f4a88accbc1e391851cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/2460.fbx using Guid(0b4812779640f4a88accbc1e391851cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb8445ac365265a8cc258fc545e99a2f') in 0.052962 seconds
-  Import took 0.055514 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000202 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/2577.fbx
-  artifactKey: Guid(8716d6a3045dd4d0380cb25aa94aa14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/2577.fbx using Guid(8716d6a3045dd4d0380cb25aa94aa14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19ca7313a61ad69b22428344ac5e57ce') in 0.058303 seconds
-  Import took 0.060812 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3040.fbx
-  artifactKey: Guid(72e5381567983474a8b1b887cb72fcf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3040.fbx using Guid(72e5381567983474a8b1b887cb72fcf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '476020015ce3c9739e7e22f52f6728e7') in 0.024732 seconds
-  Import took 0.027332 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000222 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3009.fbx
-  artifactKey: Guid(7b66c22141908484cbadfb79e9b5c895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3009.fbx using Guid(7b66c22141908484cbadfb79e9b5c895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1b9ab033a97f802f4d52a8ea5fdeb58') in 0.020095 seconds
-  Import took 0.022917 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000165 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3020.fbx
-  artifactKey: Guid(5768a0b163b4a4ffab0f3fdc692cde98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3020.fbx using Guid(5768a0b163b4a4ffab0f3fdc692cde98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cfc3eab64aa7cb31ae73697e69bc3f8') in 0.014333 seconds
-  Import took 0.017106 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000176 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3030.fbx
-  artifactKey: Guid(0f3af578a79c845e0b11b89497523ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3030.fbx using Guid(0f3af578a79c845e0b11b89497523ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24cff2bbc8f5a52498d6a5ae4ac33350') in 0.031519 seconds
-  Import took 0.034462 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000155 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3045.fbx
-  artifactKey: Guid(081f6fda0d13f476e8999dc385f094e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3045.fbx using Guid(081f6fda0d13f476e8999dc385f094e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57b6f93a151d8dc0a4609aaf753b644f') in 0.030005 seconds
-  Import took 0.032704 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/2723.fbx
-  artifactKey: Guid(e8aa4807305df4071b811febe26798b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/2723.fbx using Guid(e8aa4807305df4071b811febe26798b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39df3a9b3ab57175620168446cc523db') in 0.035449 seconds
-  Import took 0.038189 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000168 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3039.fbx
-  artifactKey: Guid(b0cc8e88e002c4051b8841b4f70743bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3039.fbx using Guid(b0cc8e88e002c4051b8841b4f70743bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3861a0a3f6d85e091dd3fa83779b85c') in 0.020662 seconds
-  Import took 0.023460 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000159 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3033.fbx
-  artifactKey: Guid(78f1b89fb91ef4b7fa07aa680bcf5242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3033.fbx using Guid(78f1b89fb91ef4b7fa07aa680bcf5242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b23739a4745646667b15fa93a5ea76b7') in 0.031005 seconds
-  Import took 0.034134 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000154 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/2486.fbx
-  artifactKey: Guid(c9e7bfeae632f466b9d3a33450cc5009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/2486.fbx using Guid(c9e7bfeae632f466b9d3a33450cc5009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3a5f4a41b42826ede1d713fb55aaa11') in 0.014539 seconds
-  Import took 0.017181 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000186 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3021.fbx
-  artifactKey: Guid(2e22230652eef43c49f5281839f0d114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3021.fbx using Guid(2e22230652eef43c49f5281839f0d114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5f7c9cf42c1debb41c48b137b126e62') in 0.014809 seconds
-  Import took 0.017398 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000176 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3038.fbx
-  artifactKey: Guid(4ca4a2347362a4cf5849cb46d12d23e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3038.fbx using Guid(4ca4a2347362a4cf5849cb46d12d23e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5db837af2efba24cdbda20980f2c061') in 0.028648 seconds
-  Import took 0.031860 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000252 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3006.fbx
-  artifactKey: Guid(5c12b8e6939014d84a9b198bf97e77a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3006.fbx using Guid(5c12b8e6939014d84a9b198bf97e77a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67d030cd94ef86ae8612cccaa0cb37bd') in 0.040095 seconds
-  Import took 0.042947 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000190 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3010.fbx
-  artifactKey: Guid(52d6bbe6069db4094814b7cc0de61edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3010.fbx using Guid(52d6bbe6069db4094814b7cc0de61edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '990994668384a150690996f01fc030d4') in 0.025066 seconds
-  Import took 0.027965 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000190 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3037.fbx
-  artifactKey: Guid(ea12f89ab5ee243c3a79dec9ac03d649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3037.fbx using Guid(ea12f89ab5ee243c3a79dec9ac03d649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c81b1b36e4ac1330a24e6d6bfc6dccc6') in 0.033497 seconds
-  Import took 0.036434 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3008.fbx
-  artifactKey: Guid(3d556280bc1e84953b40638f4c49fbca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3008.fbx using Guid(3d556280bc1e84953b40638f4c49fbca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f7ce12bfa5511a3df553307a6dffd50') in 0.028393 seconds
-  Import took 0.031233 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3035.fbx
-  artifactKey: Guid(9d6ba3e674b864c389fce0f15bd210cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3035.fbx using Guid(9d6ba3e674b864c389fce0f15bd210cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96c44e055961c091de745009f2da3780') in 0.015376 seconds
-  Import took 0.018101 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000193 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3001.fbx
-  artifactKey: Guid(a256f446dc2044be8848667382fe97f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3001.fbx using Guid(a256f446dc2044be8848667382fe97f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b808daf9c4b8dcf3a379c084e6a1698') in 0.022909 seconds
-  Import took 0.025516 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000145 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3044.fbx
-  artifactKey: Guid(059b5d6e75b0d4519a22e4d455eda6bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3044.fbx using Guid(059b5d6e75b0d4519a22e4d455eda6bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fade6fc025cb1ca847a6898e3e474eec') in 0.026016 seconds
-  Import took 0.028673 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000221 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3005.fbx
-  artifactKey: Guid(f982c83dc80dc4aaea2ab20e79a978cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3005.fbx using Guid(f982c83dc80dc4aaea2ab20e79a978cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd12bd12f4a5053b0adeb3d2076f85f9d') in 0.020659 seconds
-  Import took 0.023365 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000216 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/2465.fbx
-  artifactKey: Guid(f75a60b0c2efc47279cc19e2c61db02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/2465.fbx using Guid(f75a60b0c2efc47279cc19e2c61db02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ebc8bb9245b4b5ff38bddcd3295a2da') in 0.259812 seconds
-  Import took 0.262580 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000230 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/2489.fbx
-  artifactKey: Guid(f2eeff61e86e64266be9282e0c4057e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/2489.fbx using Guid(f2eeff61e86e64266be9282e0c4057e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74e1c8af3b779e07e5bc5c3eb6293913') in 0.035665 seconds
-  Import took 0.038169 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000271 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3002.fbx
-  artifactKey: Guid(e9243068443d54961a83fd541383bd8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3002.fbx using Guid(e9243068443d54961a83fd541383bd8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec15b7a27d11472987a3b1e72eab2e73') in 0.019299 seconds
-  Import took 0.022285 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000140 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/2921.fbx
-  artifactKey: Guid(9a13aea3c7d4a4f22b7cf9df7f71d569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/2921.fbx using Guid(9a13aea3c7d4a4f22b7cf9df7f71d569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '794bb194131794c84d6f036ee4051510') in 0.035984 seconds
-  Import took 0.038748 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000203 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3024.fbx
-  artifactKey: Guid(4696e5d920570492d88bc926911d3936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3024.fbx using Guid(4696e5d920570492d88bc926911d3936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1568424ff2ec28ad1f5c0398c3eecebb') in 0.019966 seconds
-  Import took 0.023282 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000172 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3023.fbx
-  artifactKey: Guid(f94597299e5c84e7eb306dc08213ddcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3023.fbx using Guid(f94597299e5c84e7eb306dc08213ddcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74fd315bfed82f7eaa73f5ec56a3c786') in 0.019699 seconds
-  Import took 0.022357 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000186 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/2540.fbx
-  artifactKey: Guid(941b530b59ac44242bcb8a9b43e49cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/2540.fbx using Guid(941b530b59ac44242bcb8a9b43e49cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11d87db34b16694d25939dbf6f3d4303') in 0.015132 seconds
-  Import took 0.017782 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3046.fbx
-  artifactKey: Guid(27b1d9d6428c44a2684596f6b3b7cae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3046.fbx using Guid(27b1d9d6428c44a2684596f6b3b7cae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e35d880e45ef7dce3ce9fbc2de0c760d') in 0.035222 seconds
-  Import took 0.038134 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000176 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/2654.fbx
-  artifactKey: Guid(f19aa6a32acbe4e00a47e3e63dbf577f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/2654.fbx using Guid(f19aa6a32acbe4e00a47e3e63dbf577f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e0c862108e0c72f59329a6733bc627a') in 0.030917 seconds
-  Import took 0.033576 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3004.fbx
-  artifactKey: Guid(d289a85c0e6a3484e9530213c22f6cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3004.fbx using Guid(d289a85c0e6a3484e9530213c22f6cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '510f142c183b25842e2ee99d5d5b3f90') in 0.020504 seconds
-  Import took 0.023352 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3031.fbx
-  artifactKey: Guid(14a4e85a76b4a4211b91b537285421be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3031.fbx using Guid(14a4e85a76b4a4211b91b537285421be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e63cc08ff9248369f06186e13466be7a') in 0.017322 seconds
-  Import took 0.020305 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000244 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3032.fbx
-  artifactKey: Guid(9669827953f164195881b16cb33b0c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3032.fbx using Guid(9669827953f164195881b16cb33b0c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67742b85fa159601b9f1b9f7ebd578cb') in 0.031586 seconds
-  Import took 0.034312 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/2877.fbx
-  artifactKey: Guid(44767e706c4c4984da74a0007ecb5268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/2877.fbx using Guid(44767e706c4c4984da74a0007ecb5268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab5069511b48ede2648536eb4fca3fc9') in 0.016764 seconds
-  Import took 0.019545 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000216 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3003.fbx
-  artifactKey: Guid(a8ac9a1be4e4c41018263d10fcc4ce1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3003.fbx using Guid(a8ac9a1be4e4c41018263d10fcc4ce1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e7c5d9bac58eccbeea348cb6a41147f') in 0.024535 seconds
-  Import took 0.027132 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000183 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/2454.fbx
-  artifactKey: Guid(6b8fcd130f9014737898fc6cf7309769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/2454.fbx using Guid(6b8fcd130f9014737898fc6cf7309769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd987f9ef4425d5497a6251118f91ae11') in 0.036805 seconds
-  Import took 0.039473 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000211 seconds.
-  path: Assets/LEGO Data/Geometry/New/LOD0/3036.fbx
-  artifactKey: Guid(be4283711c4f34702a2f1e5bb7bec909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO Data/Geometry/New/LOD0/3036.fbx using Guid(be4283711c4f34702a2f1e5bb7bec909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0033f12ca94b4fbf1b6cd1e497048623') in 0.034412 seconds
-  Import took 0.037533 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.991678 seconds.
-  path: Assets/New Post-processing Profile.asset
-  artifactKey: Guid(9697dd5b4263d1b418648e1af89debbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Post-processing Profile.asset using Guid(9697dd5b4263d1b418648e1af89debbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bab63b097f1e4e4d1deb4624bfd09b9') in 0.006597 seconds
-  Import took 0.009819 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 41.399617 seconds.
-  path: Assets/New Post-processing Profile.asset
-  artifactKey: Guid(9697dd5b4263d1b418648e1af89debbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Post-processing Profile.asset using Guid(9697dd5b4263d1b418648e1af89debbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d7acda3d676ca7f5825b8452cd2f597') in 0.008002 seconds
-  Import took 0.103138 seconds .
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2365.
+Total: 1.618800 ms (FindLiveObjects: 0.174500 ms CreateObjectMapping: 0.055700 ms MarkObjects: 1.376000 ms  DeleteObjects: 0.011400 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001021 seconds.
+Registered in 0.000971 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.741 seconds
+- Completed reload, in  0.694 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.7 MB.
+System memory in use after: 98.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2367.
+Total: 2.223400 ms (FindLiveObjects: 0.231500 ms CreateObjectMapping: 0.064200 ms MarkObjects: 1.911000 ms  DeleteObjects: 0.015000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001745 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.773 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.7 MB.
+System memory in use after: 98.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2369.
+Total: 1.600100 ms (FindLiveObjects: 0.172700 ms CreateObjectMapping: 0.056600 ms MarkObjects: 1.358800 ms  DeleteObjects: 0.011000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1387.505535 seconds.
+  path: Assets/LEGO/Prefabs/LEGO Models/Contraptions/Button Action.prefab
+  artifactKey: Guid(641d602a4f7ad40538dda2ef1b094be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Prefabs/LEGO Models/Contraptions/Button Action.prefab using Guid(641d602a4f7ad40538dda2ef1b094be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd814fd1f9e3bbaebdec604c6d507561') in 0.127652 seconds
+  Import took 0.132875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.640872 seconds.
+  path: Assets/LEGO/Prefabs/LEGO Models/Contraptions/Button Arrow.prefab
+  artifactKey: Guid(784450df57adc46eab121e0afc3951d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Prefabs/LEGO Models/Contraptions/Button Arrow.prefab using Guid(784450df57adc46eab121e0afc3951d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20b4866d7828b8a38d35368322c957fe') in 0.065148 seconds
+  Import took 0.070000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.438899 seconds.
+  path: Assets/LEGO/Prefabs/LEGO Models/Contraptions/Elevator.prefab
+  artifactKey: Guid(cf81ef10970270a45ab1f3c5bbbdff9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Prefabs/LEGO Models/Contraptions/Elevator.prefab using Guid(cf81ef10970270a45ab1f3c5bbbdff9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c3294962deebb9e60fe85e13c8a0dfc') in 0.097235 seconds
+  Import took 0.102222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.429616 seconds.
+  path: Assets/LEGO/Prefabs/LEGO Models/Contraptions/Evil Machine.prefab
+  artifactKey: Guid(6cea08cf6cc064515a4a34c0ec041639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Prefabs/LEGO Models/Contraptions/Evil Machine.prefab using Guid(6cea08cf6cc064515a4a34c0ec041639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfb405b7af40ecde83cbf1bb5c2c4ad3') in 0.170489 seconds
+  Import took 0.177931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.391447 seconds.
+  path: Assets/LEGO/Prefabs/LEGO Models/Environment/Boulder Small.prefab
+  artifactKey: Guid(e3731e78348cf4a2fbf6cfdaf610c9b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Prefabs/LEGO Models/Environment/Boulder Small.prefab using Guid(e3731e78348cf4a2fbf6cfdaf610c9b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1868afcf5eb54f49abfb0093bb93e81a') in 0.037759 seconds
+  Import took 0.041280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.705216 seconds.
+  path: Assets/LEGO/Prefabs/LEGO Models/Environment/Rock Small.prefab
+  artifactKey: Guid(9b5ef99c3ad5c114abfaf82db1fc8e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Prefabs/LEGO Models/Environment/Rock Small.prefab using Guid(9b5ef99c3ad5c114abfaf82db1fc8e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0046682ab11e7f92c3674ab335b2e733') in 0.028685 seconds
+  Import took 0.047128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.992293 seconds.
+  path: Assets/LEGO/Prefabs/LEGO Models/Environment/Skull Rock 1.prefab
+  artifactKey: Guid(b5897d5c7a73ef24988556cdfcb12448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Prefabs/LEGO Models/Environment/Skull Rock 1.prefab using Guid(b5897d5c7a73ef24988556cdfcb12448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f4717264742295d7e3a9c9c467fa55e') in 0.522074 seconds
+  Import took 0.556324 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000923 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.744 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.8 MB.
-System memory in use after: 96.1 MB.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.5 MB.
+System memory in use after: 104.6 MB.
 
-Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2370.
-Total: 2.423400 ms (FindLiveObjects: 0.167800 ms CreateObjectMapping: 0.051900 ms MarkObjects: 1.579000 ms  DeleteObjects: 0.623700 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2372.
+Total: 1.811100 ms (FindLiveObjects: 0.203200 ms CreateObjectMapping: 0.067700 ms MarkObjects: 1.525100 ms  DeleteObjects: 0.013800 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001033 seconds.
+Registered in 0.000888 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.664 seconds
+- Completed reload, in  0.697 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.8 MB.
-System memory in use after: 96.1 MB.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.5 MB.
+System memory in use after: 104.6 MB.
 
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2372.
-Total: 2.668600 ms (FindLiveObjects: 0.247400 ms CreateObjectMapping: 0.118700 ms MarkObjects: 1.683900 ms  DeleteObjects: 0.617100 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2374.
+Total: 1.793500 ms (FindLiveObjects: 0.222000 ms CreateObjectMapping: 0.070100 ms MarkObjects: 1.485400 ms  DeleteObjects: 0.013800 ms)
 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file

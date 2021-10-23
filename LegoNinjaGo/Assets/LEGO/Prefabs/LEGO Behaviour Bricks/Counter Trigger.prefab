@@ -1048,7 +1048,8 @@ MonoBehaviour:
     Type: 0
     Value: 1
   m_Target: 0
-  m_SpecificTargetActions: []
+  m_SpecificTargetActions:
+  - {fileID: 0}
   m_Repeat: 1
   m_DefaultVariable: {fileID: 11400000, guid: 9261f9ea2e9216c46ad193ed9d1a494b, type: 2}
 --- !u!114 &7350095683258296345
