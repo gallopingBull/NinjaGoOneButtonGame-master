@@ -15,11 +15,11 @@ D:/Unity Projects/NinjaGoOneButtonGame-master/LegoNinjaGo
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62279
+50113
 Successfully changed project path to: D:/Unity Projects/NinjaGoOneButtonGame-master/LegoNinjaGo
 D:/Unity Projects/NinjaGoOneButtonGame-master/LegoNinjaGo
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 50.20 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 47.69 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.0f1 (c7b5465681fb)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
@@ -35,34 +35,34 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56280
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56796
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001881 seconds.
+Registered in 0.001689 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 49.59 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 49.09 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.067 seconds
+- Completed reload, in  0.971 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000935 seconds.
+Registered in 0.000930 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.736 seconds
+- Completed reload, in  0.750 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
@@ -74,27 +74,54 @@ System memory in use before: 94.5 MB.
 System memory in use after: 94.6 MB.
 
 Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2312.
-Total: 1.689700 ms (FindLiveObjects: 0.212300 ms CreateObjectMapping: 0.060100 ms MarkObjects: 1.352500 ms  DeleteObjects: 0.064000 ms)
+Total: 1.879000 ms (FindLiveObjects: 0.324300 ms CreateObjectMapping: 0.080400 ms MarkObjects: 1.392600 ms  DeleteObjects: 0.081100 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/LEGO/Animations/Minifig@Spin.fbx
-  artifactKey: Guid(ddb6481764fc648e8a7f8eac82fdf2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO/Animations/Minifig@Spin.fbx using Guid(ddb6481764fc648e8a7f8eac82fdf2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74d1d4fc520f6e9991dd1cf308c9ef35') in 0.071970 seconds
-  Import took 0.088853 seconds .
+  path: Assets/SkyNinja Prefabs/SpinnerObstacle.prefab
+  artifactKey: Guid(b52a34e87303cf842872d3f7c7904869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyNinja Prefabs/SpinnerObstacle.prefab using Guid(b52a34e87303cf842872d3f7c7904869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd542a9feb849527058ba7d4e26ef8bdd') in 0.277500 seconds
+  Import took 0.288199 seconds .
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/LEGO/Animations/Minifig@Spiderman.fbx
-  artifactKey: Guid(3e4ae9264c6ad486db2f74ef48728a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO/Animations/Minifig@Spiderman.fbx using Guid(3e4ae9264c6ad486db2f74ef48728a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b21daa8023f495be8ccc98a14d8be990') in 0.009712 seconds
-  Import took 0.012313 seconds .
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.8 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2320.
+Total: 2.375200 ms (FindLiveObjects: 0.202000 ms CreateObjectMapping: 0.055800 ms MarkObjects: 2.107200 ms  DeleteObjects: 0.009400 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000902 seconds.
+Registered in 0.000946 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.756 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2322.
+Total: 1.764300 ms (FindLiveObjects: 0.197400 ms CreateObjectMapping: 0.074000 ms MarkObjects: 1.477700 ms  DeleteObjects: 0.013300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000964 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
@@ -104,46 +131,62 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.709 seconds
+- Completed reload, in  0.755 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.3 MB.
-System memory in use after: 90.4 MB.
+System memory in use before: 95.9 MB.
+System memory in use after: 96.0 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2314.
-Total: 1.606700 ms (FindLiveObjects: 0.206500 ms CreateObjectMapping: 0.051000 ms MarkObjects: 1.338400 ms  DeleteObjects: 0.009800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 476.075845 seconds.
-  path: Assets/LEGO/Textures/LEGO Behaviour Icons/Rotate Action Side.png
-  artifactKey: Guid(e7e26c0e32cc14a23a40dc4914135db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO/Textures/LEGO Behaviour Icons/Rotate Action Side.png using Guid(e7e26c0e32cc14a23a40dc4914135db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '739856c31a35d393cf019c8f504df58f') in 0.049558 seconds
-  Import took 0.052693 seconds .
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2324.
+Total: 1.723000 ms (FindLiveObjects: 0.171500 ms CreateObjectMapping: 0.056400 ms MarkObjects: 1.481300 ms  DeleteObjects: 0.012700 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.010493 seconds.
-  path: Assets/LEGO/Textures/LEGO Behaviour Icons/Rotate Action Side.png
-  artifactKey: Guid(e7e26c0e32cc14a23a40dc4914135db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO/Textures/LEGO Behaviour Icons/Rotate Action Side.png using Guid(e7e26c0e32cc14a23a40dc4914135db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '739856c31a35d393cf019c8f504df58f') in 0.029863 seconds
-  Import took 0.032498 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000985 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.685 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2326.
+Total: 1.733400 ms (FindLiveObjects: 0.191600 ms CreateObjectMapping: 0.062000 ms MarkObjects: 1.464600 ms  DeleteObjects: 0.014000 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 8.142829 seconds.
-  path: Assets/LEGO/Scripts/Utilities/Rotate.cs
-  artifactKey: Guid(b6cbf3fd4e0984a7eafd8e6b81b2331a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO/Scripts/Utilities/Rotate.cs using Guid(b6cbf3fd4e0984a7eafd8e6b81b2331a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60988adb779bb92003019c289a946c65') in 0.016713 seconds
-  Import took 0.019252 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000976 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.735 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 96.1 MB.
 
-========================================================================
-Received Import Request.
-  Time since last request: 0.001683 seconds.
-  path: Assets/LEGO/Scripts/Utilities/Rotate.cs
-  artifactKey: Guid(b6cbf3fd4e0984a7eafd8e6b81b2331a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEGO/Scripts/Utilities/Rotate.cs using Guid(b6cbf3fd4e0984a7eafd8e6b81b2331a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60988adb779bb92003019c289a946c65') in 0.001120 seconds
-  Import took 0.003630 seconds .
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2328.
+Total: 2.131900 ms (FindLiveObjects: 0.218900 ms CreateObjectMapping: 0.068000 ms MarkObjects: 1.831000 ms  DeleteObjects: 0.012400 ms)
 
