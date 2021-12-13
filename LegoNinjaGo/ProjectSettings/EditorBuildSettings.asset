@@ -18,6 +18,6 @@ EditorBuildSettings:
     path: Assets/SkyNinja Prefabs/Scenes/FinalScenes/Web/Ninjago SkyNinja LevelIntro.unity
     guid: b9b882910824d014ba7d5a8e19e2d2ca
   - enabled: 1
-    path: Assets/SkyNinja Prefabs/Scenes/FinalScenes/PC/Ninjago SkyNinja HIDEF OGBoulders.unity
-    guid: 291f0f4a90366234f917ae62b557b2e5
+    path: Assets/SkyNinja Prefabs/Scenes/FinalScenes/Web/Ninjago SkyNinja.unity
+    guid: d0851da2efd51f5479a9d398d6fd1451
   m_configObjects: {}
